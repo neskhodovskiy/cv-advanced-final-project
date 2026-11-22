@@ -1,0 +1,7 @@
+.git
+data
+.venv
+.tmp
+**/__pycache__
+presentation
+results
