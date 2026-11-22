@@ -1,0 +1,555 @@
+[
+  {
+    "path": "data/raw/UAV-VisLoc/satellite_ coordinates_range.csv",
+    "size": 812,
+    "sha256": "662fc7f933f6fc00bcfe5ff83a950029421cb7c83282861549f54f833b5044c8",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/satellite_%20coordinates_range.csv",
+    "received_utc": "2026-11-22T09:26:10.776519+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/05.csv",
+    "size": 51504,
+    "sha256": "68933641c8500c4e86cf744717d0e74442fb8399b8c819ccbbd7a2a5455f548e",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/05.csv",
+    "received_utc": "2026-11-22T09:26:12.398489+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0225.JPG",
+    "size": 974448,
+    "sha256": "ad142418bcdda4d225c1902e95fce711d3083962b0a9a44bcd403492b616c7d1",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0225.JPG",
+    "received_utc": "2026-11-22T09:26:15.284405+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0226.JPG",
+    "size": 992440,
+    "sha256": "e952c733fd1edaa5494bda57123b3d94342b1697422987446e02160d53de2fbb",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0226.JPG",
+    "received_utc": "2026-11-22T09:26:15.343964+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0227.JPG",
+    "size": 992991,
+    "sha256": "be51792d7bffc41712381ff3dbb37f7247f084b6e7f4ba1016281145740ad72f",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0227.JPG",
+    "received_utc": "2026-11-22T09:26:15.339751+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0228.JPG",
+    "size": 1048835,
+    "sha256": "deb35a56bf7d86fb63aaf1a75c8c2c6a3f692b8c70700319f056e87796928786",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0228.JPG",
+    "received_utc": "2026-11-22T09:26:15.352697+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0229.JPG",
+    "size": 1094470,
+    "sha256": "044fde8ad4309722a43f645946685296bc948e3bac9792107c74f87c5630c41f",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0229.JPG",
+    "received_utc": "2026-11-22T09:26:17.463125+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0230.JPG",
+    "size": 1122111,
+    "sha256": "b9c3a2363a856f75b414ff36fe4fcb665fc7725cc2428f14fbed61c811693fed",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0230.JPG",
+    "received_utc": "2026-11-22T09:26:17.577852+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0231.JPG",
+    "size": 1112457,
+    "sha256": "c12e043e0770529e910b47f55b02dc6dcfd5bfc6c1a10fcf5eafcea4bf43a5f3",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0231.JPG",
+    "received_utc": "2026-11-22T09:26:17.579681+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0232.JPG",
+    "size": 1093842,
+    "sha256": "12cd68606b0eb426b2e626743396a269935653d94d62bdd07db6c28e34517cdd",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0232.JPG",
+    "received_utc": "2026-11-22T09:26:17.743566+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0233.JPG",
+    "size": 1074550,
+    "sha256": "49d90d4ba74d888a72079f7c39b19f77a411520a6af31ab4e906c1b86c8f13c3",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0233.JPG",
+    "received_utc": "2026-11-22T09:26:19.278061+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0234.JPG",
+    "size": 1130375,
+    "sha256": "ab81c148eb9e6f9e035e1b071294bf042cb9d1d9111bbd1ce4764895519a16cf",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0234.JPG",
+    "received_utc": "2026-11-22T09:26:19.444071+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0235.JPG",
+    "size": 1138833,
+    "sha256": "82b7742f3438f32cbe265caccb43019b909865e42d1478eb7ea0423c9401a367",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0235.JPG",
+    "received_utc": "2026-11-22T09:26:19.669788+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0236.JPG",
+    "size": 1092955,
+    "sha256": "7421d3f4b40ba22fae74d3fdf8619f970aa2357710d147ff3239280f17794eef",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0236.JPG",
+    "received_utc": "2026-11-22T09:26:20.126767+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0237.JPG",
+    "size": 1084777,
+    "sha256": "2eb08016eaa86c45437753511ec01c81a3cc2a12d15ea5ccb3354b0a3a67287a",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0237.JPG",
+    "received_utc": "2026-11-22T09:26:21.910999+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0238.JPG",
+    "size": 1169016,
+    "sha256": "61c58de9d9fd046dc51f9a1fafc21f41bfd4e86590d85e5a1a10234ca68f8193",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0238.JPG",
+    "received_utc": "2026-11-22T09:26:21.914659+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0239.JPG",
+    "size": 1135702,
+    "sha256": "ed86b83813e6a03ee6b90dfe9f3ac50aeb4c359da248386928c92b01b0cefdec",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0239.JPG",
+    "received_utc": "2026-11-22T09:26:22.458541+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0240.JPG",
+    "size": 1063010,
+    "sha256": "c0ac83534f4b05c52b8bb091574323cec62957d7d0c503b92d96d527aac42371",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0240.JPG",
+    "received_utc": "2026-11-22T09:26:22.861332+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0241.JPG",
+    "size": 990254,
+    "sha256": "f1385bcb26e184fbd8ea6bbf1d38ad63f9147bc1b3a10406c76fa66958982c76",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0241.JPG",
+    "received_utc": "2026-11-22T09:26:24.092889+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0242.JPG",
+    "size": 958592,
+    "sha256": "0e943dd15f3b0d2fafbbbce978587bb0c601f8673b8c87943678bd68144b623b",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0242.JPG",
+    "received_utc": "2026-11-22T09:26:24.090375+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0243.JPG",
+    "size": 1009102,
+    "sha256": "98df73243e10a61d2fae4ff2adb4b7d15ffa307fbb1a9947b78812578000a247",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0243.JPG",
+    "received_utc": "2026-11-22T09:26:24.689892+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0244.JPG",
+    "size": 971669,
+    "sha256": "a60d4f873b0606163c9cebea41275edc0ccc23a7f3aac067646fc898c4ead83d",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0244.JPG",
+    "received_utc": "2026-11-22T09:26:24.983353+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0245.JPG",
+    "size": 1029404,
+    "sha256": "ad1c7963b478b4b2995471619e7f4b67bf545df5b4ae4355f227c8edf616c26b",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0245.JPG",
+    "received_utc": "2026-11-22T09:26:26.928421+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0246.JPG",
+    "size": 983802,
+    "sha256": "0b5f63d62505014e559544fc8b7cbf7c98723e5fd41bc0db0cba272b01c7bbda",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0246.JPG",
+    "received_utc": "2026-11-22T09:26:26.110976+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0247.JPG",
+    "size": 907108,
+    "sha256": "b962a1da04958595e64e6117b5e8d6d07d5a9c3a6625a56d6b469653da125b9e",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0247.JPG",
+    "received_utc": "2026-11-22T09:26:26.794940+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/drone/05_0248.JPG",
+    "size": 930159,
+    "sha256": "50b2b5733453c1cc509bfb16546b035c3a332556dd029149aed6c0dade39ef52",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/drone/05_0248.JPG",
+    "received_utc": "2026-11-22T09:26:26.759506+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/05/satellite05.tif",
+    "size": 174595398,
+    "sha256": "c30d2e2004b68310df8b8207fba253c37e36909c26f7112144269997861216f9",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/05/satellite05.tif",
+    "received_utc": "2026-11-22T09:26:59.184336+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/06.csv",
+    "size": 37109,
+    "sha256": "c8b32740409fc20213c93ef4e779b1b46382c91e27c84a072c478464e8478e5f",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/06.csv",
+    "received_utc": "2026-11-22T09:27:00.721912+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0161.JPG",
+    "size": 1603319,
+    "sha256": "74149d86f785cbe7fd2424e0a929b9957084602dcc15bcd05d41950d5748a9f1",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0161.JPG",
+    "received_utc": "2026-11-22T09:27:04.341105+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0162.JPG",
+    "size": 1399015,
+    "sha256": "afdc8772ae468d485c1018a69789c7e8518adbcb38306a107a7bce34a98bf0dc",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0162.JPG",
+    "received_utc": "2026-11-22T09:27:03.729139+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0163.JPG",
+    "size": 1579184,
+    "sha256": "a289406ab21afd00b5ba1ab30097efcfc89ed086e038995c5de4956db09234a6",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0163.JPG",
+    "received_utc": "2026-11-22T09:27:03.915429+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0164.JPG",
+    "size": 1628163,
+    "sha256": "d2608ec053fe6a726c1d6a33ee50480b5a74d2e8bca545997b4d7c1cbc44d266",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0164.JPG",
+    "received_utc": "2026-11-22T09:27:03.850813+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0165.JPG",
+    "size": 1393909,
+    "sha256": "e7009be22881cf65454b9d065d8845c52d02f4d2119a91e589c82f0503325b0b",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0165.JPG",
+    "received_utc": "2026-11-22T09:27:06.164134+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0166.JPG",
+    "size": 1513533,
+    "sha256": "16f751341fc39f8ed9280a37e7f8c796a02c328e0abaf9daf1e82d80e5985091",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0166.JPG",
+    "received_utc": "2026-11-22T09:27:06.267897+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0167.JPG",
+    "size": 1449418,
+    "sha256": "957113680ed757079965d31729533c009c30d65ffed2c618384c227dd3335f77",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0167.JPG",
+    "received_utc": "2026-11-22T09:27:06.544783+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0168.JPG",
+    "size": 1450038,
+    "sha256": "a7cee64711ea4a821284e1c8cd575e8646a7c6dc4296506fe9f59f419db6afbc",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0168.JPG",
+    "received_utc": "2026-11-22T09:27:07.080651+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0169.JPG",
+    "size": 1579041,
+    "sha256": "ca4022c6c9e3137bebb99d8f23de6a47ba279ec3014e9463b46d81eead741477",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0169.JPG",
+    "received_utc": "2026-11-22T09:27:08.507505+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0170.JPG",
+    "size": 1532252,
+    "sha256": "92bf75267a0b1103b6c378c36318dcd11262cfc1b7514cf499508adaf90d740c",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0170.JPG",
+    "received_utc": "2026-11-22T09:27:09.660431+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0171.JPG",
+    "size": 1479319,
+    "sha256": "a4de2807bb7f48544a5dfc1724c46884fde96fb481be591f88295b8cc244f78c",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0171.JPG",
+    "received_utc": "2026-11-22T09:27:09.035487+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0172.JPG",
+    "size": 1419994,
+    "sha256": "12996472fc20fc4d95f5e1ed7e74c2616979990240a970d31669fa3b5130e613",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0172.JPG",
+    "received_utc": "2026-11-22T09:27:09.230746+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0173.JPG",
+    "size": 1253920,
+    "sha256": "e237b1e0c7853e62c4aedc9540ea378c1892644025d31c5ba15ee45721351577",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0173.JPG",
+    "received_utc": "2026-11-22T09:27:10.518950+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0174.JPG",
+    "size": 1035685,
+    "sha256": "09ce6428f0333b67cfb87d54996de9ed2263b143d21532e02c0f81bbd22b4e7e",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0174.JPG",
+    "received_utc": "2026-11-22T09:27:11.175985+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0175.JPG",
+    "size": 1123583,
+    "sha256": "48ee841abbce5e5b0af51fed9eaf813b2a97d84576742741efe68d1694470102",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0175.JPG",
+    "received_utc": "2026-11-22T09:27:11.193970+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0176.JPG",
+    "size": 828921,
+    "sha256": "8aafb9a37a6c4038d5f7284073c814b39aeb4a245cfeba15f22fb340378eae4c",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0176.JPG",
+    "received_utc": "2026-11-22T09:27:11.646445+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0177.JPG",
+    "size": 698627,
+    "sha256": "d4d33e143eea2b2062ffa2a38feccbc6a8304f7cdccfcbbfdad12aae1533f9c7",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0177.JPG",
+    "received_utc": "2026-11-22T09:27:12.279059+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0178.JPG",
+    "size": 596237,
+    "sha256": "b23f6021bb0ccc1dbfdb5a236df94b30529151965e493edbda519d1b828194f6",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0178.JPG",
+    "received_utc": "2026-11-22T09:27:12.766184+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0179.JPG",
+    "size": 1052841,
+    "sha256": "3a7ca6bd53dff597e13531d2fc5f28f14ea390cb429b19fcd22a110d32544bcc",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0179.JPG",
+    "received_utc": "2026-11-22T09:27:13.034205+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0180.JPG",
+    "size": 1362214,
+    "sha256": "958d81b9fcb89118cf85dd8b4bed48125b6724ee04287fc3dc58b608e0c78d81",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0180.JPG",
+    "received_utc": "2026-11-22T09:27:13.694845+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0181.JPG",
+    "size": 1205001,
+    "sha256": "47f7226c12b5b47fec9360d6b195575f180b067ab337e03428a6ba80b5848833",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0181.JPG",
+    "received_utc": "2026-11-22T09:27:14.027079+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0182.JPG",
+    "size": 1534100,
+    "sha256": "58dd9afd086c347a3bd9b23d09d528f735660abaee78259ebb885b6a417021b8",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0182.JPG",
+    "received_utc": "2026-11-22T09:27:14.970788+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0183.JPG",
+    "size": 1427882,
+    "sha256": "3d72dda7eb35ecff042a3def31e693c71de195fb010d118be2af2ede264bca2b",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0183.JPG",
+    "received_utc": "2026-11-22T09:27:15.561914+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/drone/06_0184.JPG",
+    "size": 1527657,
+    "sha256": "48ca6703d909b0e8f7b042a65e042e6dd13c057d857681d3ef8b0fccf111ae5f",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/drone/06_0184.JPG",
+    "received_utc": "2026-11-22T09:27:16.104917+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/06/satellite06.tif",
+    "size": 245377158,
+    "sha256": "041c94d3a1f83744e2e818588163f22e36aa211a26b5f0384f7d0207ce050bc5",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/06/satellite06.tif",
+    "received_utc": "2026-11-22T09:29:54.563343+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/10.csv",
+    "size": 15508,
+    "sha256": "8462817fd289d600074f3a9027cc56fea7427d442d5dc2f2ed1972cc22dfaee9",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/10.csv",
+    "received_utc": "2026-11-22T09:29:56.337264+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0061.JPG",
+    "size": 686939,
+    "sha256": "e198217fc36de47e911f3854a1dbe3ae8cde22d51118a8726a88a808cc25b6c0",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0061.JPG",
+    "received_utc": "2026-11-22T09:29:59.090726+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0062.JPG",
+    "size": 726303,
+    "sha256": "c2fabcbbc5adad4ffa03a6913714dca3ccaae03d80a873f7ab883f40b8d83cd4",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0062.JPG",
+    "received_utc": "2026-11-22T09:29:59.092618+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0063.JPG",
+    "size": 760810,
+    "sha256": "218fab55b0e271e3f1001d6d9c1ede94ad9713cdf3760d52cd52fd55cb0e753a",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0063.JPG",
+    "received_utc": "2026-11-22T09:29:59.107392+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0064.JPG",
+    "size": 809714,
+    "sha256": "125cc13f8b43ffd81ea812f44bffe5ee9f6824feeaf3819c658557defd654484",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0064.JPG",
+    "received_utc": "2026-11-22T09:29:58.976930+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0065.JPG",
+    "size": 794976,
+    "sha256": "e85a44b180fb7dd60414c8203735a2765f4a44294aa24ee3a351f8c9062164db",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0065.JPG",
+    "received_utc": "2026-11-22T09:30:01.933405+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0066.JPG",
+    "size": 776638,
+    "sha256": "07f55b31a51e9e91ca9f1e960ad8382e58a4328997efff16f3155790cae9a8c4",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0066.JPG",
+    "received_utc": "2026-11-22T09:30:01.849105+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0067.JPG",
+    "size": 826125,
+    "sha256": "661aab20904f3e5a1a2655ee61c584e34e3be7707b963629888ed89ace12c17e",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0067.JPG",
+    "received_utc": "2026-11-22T09:30:02.034535+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0068.JPG",
+    "size": 920644,
+    "sha256": "6c229bc970fbbfd395184209fa8fb4d7b26cf49774337feccdec4706aec659d2",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0068.JPG",
+    "received_utc": "2026-11-22T09:30:01.955107+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0069.JPG",
+    "size": 1073178,
+    "sha256": "726698fc5602fa853e80bdb29265e08041fed349d3824bb7c8e7b6d1201ce78b",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0069.JPG",
+    "received_utc": "2026-11-22T09:30:04.702112+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0070.JPG",
+    "size": 1164399,
+    "sha256": "79eaa7f351c79724c049a93de833265f5b8d3a58560c0130a81a40cbd81eac80",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0070.JPG",
+    "received_utc": "2026-11-22T09:30:04.734323+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0071.JPG",
+    "size": 1060388,
+    "sha256": "59086235f41420e1025fc5e276206e60cfe0e8aea36742593c7ecf1d4d5dec51",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0071.JPG",
+    "received_utc": "2026-11-22T09:30:04.600280+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0072.JPG",
+    "size": 942381,
+    "sha256": "5558a2be3e24998d2c873bceead1ce156504fec625d14ac176ecbe93e43ed4b2",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0072.JPG",
+    "received_utc": "2026-11-22T09:30:04.751118+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0073.JPG",
+    "size": 1100200,
+    "sha256": "a46c380f6780bce97c132d5ffc536bb6116bc07c305e900eb49557a5d578786f",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0073.JPG",
+    "received_utc": "2026-11-22T09:30:08.108021+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0074.JPG",
+    "size": 1087270,
+    "sha256": "36ffecfd53c089ada43d3b7b83cb8c434a572e589fd9920712bec3f66a2861de",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0074.JPG",
+    "received_utc": "2026-11-22T09:30:08.191964+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0075.JPG",
+    "size": 1029203,
+    "sha256": "23aff97eb494a2dd2b0e05377e8132a30cecb68bdcd76fa78c6718083b185877",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0075.JPG",
+    "received_utc": "2026-11-22T09:30:08.196744+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0076.JPG",
+    "size": 868519,
+    "sha256": "700aa5e8880603918e71f43805a223a9131cc74fc998ee54e65f713972a3d84d",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0076.JPG",
+    "received_utc": "2026-11-22T09:30:08.325854+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0077.JPG",
+    "size": 720695,
+    "sha256": "b9e441b152ea5462b64debc56a16c7c54520df824fb2d946fbc9e50fe70e28b7",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0077.JPG",
+    "received_utc": "2026-11-22T09:30:11.525281+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0078.JPG",
+    "size": 677802,
+    "sha256": "dba61206755d5304aae14954c66b93a9656d53c04f100b45fc965fa1493ab8a7",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0078.JPG",
+    "received_utc": "2026-11-22T09:30:11.523557+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0079.JPG",
+    "size": 646861,
+    "sha256": "c01aa7006373a19a20ea0c49e2886386df4c074c147f6c821bc034c871b32aa7",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0079.JPG",
+    "received_utc": "2026-11-22T09:30:11.421431+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0080.JPG",
+    "size": 664235,
+    "sha256": "8ce579669c2259cf4a6ce9f36d5da12ff59b666167d349c4d3f445dd49a924a7",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0080.JPG",
+    "received_utc": "2026-11-22T09:30:11.423119+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0081.JPG",
+    "size": 686070,
+    "sha256": "b0818b05bf9ba93a9f63547c0ca0b763ee39d65b158c1177145c6c1445047a9e",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0081.JPG",
+    "received_utc": "2026-11-22T09:30:13.270113+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0082.JPG",
+    "size": 672799,
+    "sha256": "d7e29029cf90ce457962de33fca0dee32a06f9b643602ae6132f4545368dca6a",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0082.JPG",
+    "received_utc": "2026-11-22T09:30:13.124605+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0083.JPG",
+    "size": 668448,
+    "sha256": "3642cfba36765dad12337f9daefba3579f934803c4e4509094b43115de19888a",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0083.JPG",
+    "received_utc": "2026-11-22T09:30:13.631425+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/drone/10_0084.JPG",
+    "size": 644141,
+    "sha256": "098b0984b2120ac5c665c6664279ce3a9153aaa44575c5aeb7aef5ca69ed861b",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/drone/10_0084.JPG",
+    "received_utc": "2026-11-22T09:30:13.539122+00:00"
+  },
+  {
+    "path": "data/raw/UAV-VisLoc/10/satellite10.tif",
+    "size": 102240710,
+    "sha256": "8f5f8276360d38494ff4817b3436d28e394dd6713bd9c923d8b09ca764af7d7d",
+    "source": "https://huggingface.co/datasets/mvidem/UAV-VisLoc/resolve/64001825da73fa63e966054f9ee6f7269b9b92cf/10/satellite10.tif",
+    "received_utc": "2026-11-22T09:30:39.039534+00:00"
+  }
+]

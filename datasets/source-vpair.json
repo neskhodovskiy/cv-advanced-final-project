@@ -1,0 +1,9 @@
+[
+  {
+    "path": "data/archives/vpair_sample.zip",
+    "size": 861249439,
+    "sha256": "c83f41fa7c9f39debe4898abceb009bff8a2b17b4840defb1831ecf127a9bf6b",
+    "source": "https://zenodo.org/api/records/6473989/files/vpair_sample.zip/content",
+    "received_utc": "2026-11-22T09:30:53.598477+00:00"
+  }
+]

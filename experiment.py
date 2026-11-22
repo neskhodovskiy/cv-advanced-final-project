@@ -130,7 +130,7 @@ def summarize(values, seconds):
                 algorithm_p50_ms=np.median(times), algorithm_p95_ms=np.percentile(times, 95),
                 query_decode_p50_ms=np.median([r["query_decode_ms"] for r in values]),
                 reference_load_p50_ms=np.median([r["reference_load_ms"] for r in values]),
-                pairs_per_s=len(values) / seconds)
+                pairs_per_s=len(values) / seconds, frames_per_s=len(values) / (2 * seconds))
 
 
 def evaluate(groups, split, strengths):
@@ -179,7 +179,7 @@ def run(manifest, output):
         raise ValueError("Need independent dev and test sequences")
     with tempfile.TemporaryDirectory() as temp:
         groups = prepare_clips(rows, Path(temp))
-        dev, dev_summary = evaluate(groups, "dev", (1.0, 2.0, 4.0))
+        _, dev_summary = evaluate(groups, "dev", (1.0, 2.0, 4.0))
         # Maximize macro-AP across methods and conditions, tie → smaller clip limit.
         selected = max((1.0, 2.0, 4.0), key=lambda c: np.mean([r["ap"] for r in dev_summary if r["clip_limit"] == c]))
         save_csv(output / "development.csv", dev_summary)
