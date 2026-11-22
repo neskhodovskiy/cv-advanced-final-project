@@ -25,7 +25,7 @@ MIN_MATCHES = 4
 
 def save_csv(path, rows):
     with path.open("w", newline="", encoding="utf-8") as out:
-        writer = csv.DictWriter(out, fieldnames=rows[0].keys())
+        writer = csv.DictWriter(out, fieldnames=rows[0].keys(), lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
 

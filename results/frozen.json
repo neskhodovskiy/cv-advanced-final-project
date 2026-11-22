@@ -1,0 +1,25 @@
+{
+  "clip_limit": 2.0,
+  "grid": [
+    1,
+    2,
+    4
+  ],
+  "manifest_sha256": "1e052098d4c6b0e6b8229b301333e781876f0f3078140734e9522962918956fb",
+  "image_size": [
+    384,
+    288
+  ],
+  "minimum_matches": 4,
+  "methods": [
+    "ORB",
+    "AKAZE"
+  ],
+  "conditions": [
+    "clean",
+    "h264_28",
+    "h264_43",
+    "blur_1",
+    "blur_3"
+  ]
+}
